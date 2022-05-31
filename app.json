@@ -27,6 +27,7 @@
         "ALIVE_IMG": {
             "description": "صوره السورس",
             "required": true
+            "value": "https://telegra.ph/file/0a0956a70aa24b5e54190.jpg"
         },
         "BOT_USERNAME": {
             "description": "معرف بوتك @BotFather",
@@ -39,6 +40,7 @@
         "ASSISTANT_NAME": {
             "description": "معرف الحساب المساعد بدون @",
             "required": true
+            "value": "GJJJUIll"
         },
         "SESSION_NAME": {
             "description": "جلسة البيوجرام",
@@ -47,22 +49,22 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين",
             "required": true,
-            "value": "1047777673"
+            "value": "1254750804"
         },
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "OYOYO"
+            "value": "abnnaldowra882s"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
             "required": true,
-            "value": "OYOYV"
+            "value": "x02x2"
         },
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
             "required": true,
-            "value": "GTT_G"
+            "value": "R4005"
         },
         "ALIVE_NAME": {
             "description": "اسم حسابك علي التيلجرام",
