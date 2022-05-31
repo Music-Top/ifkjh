@@ -26,7 +26,7 @@
         },
         "ALIVE_IMG": {
             "description": "صوره السورس",
-            "required": true
+            "required": true,
             "value": "https://telegra.ph/file/0a0956a70aa24b5e54190.jpg"
         },
         "BOT_USERNAME": {
@@ -39,7 +39,7 @@
         },
         "ASSISTANT_NAME": {
             "description": "معرف الحساب المساعد بدون @",
-            "required": true
+            "required": true,
             "value": "GJJJUIll"
         },
         "SESSION_NAME": {
