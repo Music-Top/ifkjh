@@ -40,7 +40,7 @@
         "ASSISTANT_NAME": {
             "description": "معرف الحساب المساعد بدون @",
             "required": true,
-            "value": "GJJJUIll"
+            "value": "JKAEBT"
         },
         "SESSION_NAME": {
             "description": "جلسة البيوجرام",
@@ -54,7 +54,7 @@
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "abnnaldowra882s"
+            "value": "FIINJAKE"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
